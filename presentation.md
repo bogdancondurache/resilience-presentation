@@ -123,7 +123,7 @@ in this order
 * return 429 when too many requests
 * implement retry and circuit breaker in the client
 
-![circuit breaker](assets/circuit-example.png)
+![circuit breaker](assets/rate-limit-example.png)
 
 --------------------
 
